@@ -1,6 +1,6 @@
 {
-  "name": "lorem-ipsum",
-  "version": "0.0.1",
+  "name": "lorem-ipsum-component",
+  "version": "0.0.2",
   "homepage": "https://github.com/matthewp/lorem-ipsum",
   "authors": [
     "Matthew Phillips <matthew@matthewphillips.info>"
