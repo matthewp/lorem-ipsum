@@ -1,0 +1,22 @@
+{
+  "name": "lorem-ipsum",
+  "version": "0.0.1",
+  "homepage": "https://github.com/matthewp/lorem-ipsum",
+  "authors": [
+    "Matthew Phillips <matthew@matthewphillips.info>"
+  ],
+  "description": "lorem-ipsum is a can.Component",
+  "main": "component/lorem.js",
+  "keywords": [
+    "can.component",
+    "canjs"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
