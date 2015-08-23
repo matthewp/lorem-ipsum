@@ -1,0 +1,23 @@
+{
+  "name": "can-lorem-ipsum",
+  "version": "1.0.0",
+  "description": "A can.Component for lorem ipsum text",
+  "main": "component/lorem.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/matthewp/lorem-ipsum.git"
+  },
+  "keywords": [
+    "canjs",
+    "can-component"
+  ],
+  "author": "Matthew Phillips",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matthewp/lorem-ipsum/issues"
+  },
+  "homepage": "https://github.com/matthewp/lorem-ipsum"
+}
